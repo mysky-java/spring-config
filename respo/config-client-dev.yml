@@ -19,7 +19,7 @@ spring:
     username: guest
     password: guest
 server:
-  port: 8766
+  port: 8768
 eureka:
   client:
     service-url:
